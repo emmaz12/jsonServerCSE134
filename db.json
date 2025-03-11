@@ -16,13 +16,6 @@
           "link": "https://ersp.ucsd.edu/"
         },
         {
-          "title": "Alpha House Society Desktop Support Intern",
-          "img-src": "../static/assets/alpha-house.png",
-          "img-alt": "Alpha House Logo",
-          "description": "Designed and implemented a program that filters and categorizes new employee data records for simpler and more efficient data entry using Python. Assisted with IT support across multiple departments, installing OS, software, and responding to user requests.",
-          "link": "https://alphahousecalgary.com/"
-        },
-        {
           "title": "Sponsor Energy Inc. Marketing and IT Intern",
           "img-src": "../static/assets/sponsorEnergy.png",
           "img-alt": "Sponsor Energy Logo",
